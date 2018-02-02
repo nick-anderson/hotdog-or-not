@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nick/dcos_demo/hotdog/model.tflearn"
+all_model_checkpoint_paths: "/Users/nick/dcos_demo/hotdog/model.tflearn"

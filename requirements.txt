@@ -1,0 +1,6 @@
+flask
+flasgger
+numpy
+tensorflow
+cv2
+tflearn
